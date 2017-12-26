@@ -12,3 +12,6 @@ Branches are helpful when you are making changes that go further than just fixin
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help me visualize the branch structure because it allows me to see how branches relate to each other, the child-parent relationships, and how some commits could get lost if they aren't made into their own branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together takes the updates made in both branches and combines them into one. 
