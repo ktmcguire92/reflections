@@ -6,3 +6,6 @@ The staging area is an in-between area that allows a user to pick and choose whi
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can look at what is in the staging area before you commit, and make sure that all the things that are going to be commited follow with the same logic. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful when you are making changes that go further than just fixing bugs, editing documentation, or other "linear" changes. When you make changes that are experimental or additional features but want to keep a working copy of the current project, a branch can allow that to happen. 
