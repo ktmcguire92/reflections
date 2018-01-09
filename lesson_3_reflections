@@ -4,3 +4,8 @@ breaks you can still access it.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some things you are updating on your computer you don't want to add to the overall project until you're sure they work and won't mess up other stuff. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branches - different versions of a project within a repo
+clones - an exact copy of a repo
+forks - "clone" of a repo on github
